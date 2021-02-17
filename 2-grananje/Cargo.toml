@@ -1,0 +1,7 @@
+[package]
+name = "arraysum"
+version = "0.1.0"
+authors = ["Ivan Nejgebauer <ian@uns.ac.rs>"]
+
+[profile.dev]
+opt-level = 1

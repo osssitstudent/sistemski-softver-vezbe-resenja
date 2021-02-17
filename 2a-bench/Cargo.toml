@@ -1,0 +1,6 @@
+[package]
+name = "bbench"
+version = "0.1.0"
+authors = ["Ivan Nejgebauer <ian@uns.ac.rs>"]
+
+[dependencies]

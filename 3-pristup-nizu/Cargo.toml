@@ -1,0 +1,9 @@
+[package]
+name = "awalk"
+version = "0.1.0"
+authors = ["Ivan Nejgebauer <ian@uns.ac.rs>"]
+
+[dependencies]
+
+[profile.release]
+opt-level = 1
